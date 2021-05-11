@@ -5508,30 +5508,30 @@ document.write('<link rel="stylesheet" href="https://api.map.baidu.com/library/T
  })(window);
 
 
-document.write('<script type="text/javascript" src="./js/mapCore/MapCore_comm.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/MapCore_comm.js"></script>');
 document.write('<link rel="stylesheet" href="./js/mapCore/MapCore_style.css"></link>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/StatisticsMap.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/StatisticsMap.js"></script>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/DrawClusterOverlay.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/DrawClusterOverlay.js"></script>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/MarkerClusterer.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/MarkerClusterer.js"></script>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/mapv.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/mapv.js"></script>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/DrawingManager.js"></script>');
-document.write('<link rel="stylesheet" href="./js/mapCore/DrawingManagerEx.css"/>');
+document.write('<script type="text/javascript" src="./mapCore/DrawingManager.js"></script>');
+document.write('<link rel="stylesheet" href="./mapCore/DrawingManagerEx.css"/>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/TextIconOverlay.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/TextIconOverlay.js"></script>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/quitimeControlsjs.js"></script>');
-document.write('<link rel="stylesheet" href="./js/mapCore/quitimeControlcss.css"/>');
+document.write('<script type="text/javascript" src="./mapCore/quitimeControlsjs.js"></script>');
+document.write('<link rel="stylesheet" href="./mapCore/quitimeControlcss.css"/>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/pathProject.js"></script>');
-document.write('<link rel="stylesheet" href="./js/mapCore/pathControl.css"/>');
+document.write('<script type="text/javascript" src="./mapCore/pathProject.js"></script>');
+document.write('<link rel="stylesheet" href="./mapCore/pathControl.css"/>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/CREDIT_baidu.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/CREDIT_baidu.js"></script>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/GeoServerMap.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/GeoServerMap.js"></script>');
 
-document.write('<script type="text/javascript" src="./js/mapCore/BoundaryMap.js"></script>');
+document.write('<script type="text/javascript" src="./mapCore/BoundaryMap.js"></script>');
