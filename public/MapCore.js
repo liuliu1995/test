@@ -1,4 +1,5 @@
 document.write('<script type="text/javascript" src="//api.map.baidu.com/getscript?v=2.0&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/?qt=verify&v=2.1&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm&callback=BMap._rd._cbk70060&seckey=undefined"></script>');
 document.write('<script type="text/javascript" src="//api.map.baidu.com/library/DistanceTool/1.2/src/DistanceTool_min.js?&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
 document.write('<script type="text/javascript" src="//api.map.baidu.com/library/TextIconOverlay/1.2/src/TextIconOverlay_min.js?ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
 document.write('<script type="text/javascript" src="//api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>');
