@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+        content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+    <script src="./public/MapCore.js"></script>
+    <title>百度地图测试</title>
+</head>
+
+<body>
+    <div class="mainContent">
+        <div id="map" style="width: 100%;height: 100%;"></div>
+    </div>
+    <script>
+        (() => {
+            let map = new BMap.Map("map"); // 创建地图实例  
+            let point = new BMap.Point(120.578803, 31.871328); // 创建点坐标  
+            map.centerAndZoom(point, 15); // 初始化地图，设置中心点坐标和地图级别
+            let marker = new BMapGL.Marker(point);
+            // 在地图上添加点标记
+            map.addOverlay(marker);
+        })()
+    </script>
+</body>
+
+</html>

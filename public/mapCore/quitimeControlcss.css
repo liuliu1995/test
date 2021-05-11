@@ -1,0 +1,113 @@
+ /* 控件样式 **start****/
+ .contorldata{
+	width: 710px;
+			height: 30px;
+			position: absolute;
+			top: 26px;
+			left: 10px;
+			z-index: 9999;
+	display: flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	background: #fff;
+	align-items: center;
+	font-size: 13px;
+	} 
+	.locationstyle{
+	display: flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	}
+		.btnstyle{
+		height:20px;
+		border:1px solid #ddd;
+		background: #fdfdfd;
+		font-size: 13px;
+				line-height: 20px;
+		cursor:pointer;
+		margin: 0 5px;
+	}
+	.marginrad{
+		margin-left:10px;
+	}
+	.timerad{
+		width:75px;
+	}
+	/* 控件样式 **end****/
+		.childers{
+			border-top:1px solid #999;
+			padding:5px;
+		}
+	.poilocation{
+	position: absolute;
+	top: 28px;
+	left: 75px;
+	display: none;
+	}
+	.customstyle{
+	position: absolute;
+	top: 28px;
+	left: 513px;
+	display: none;
+	}
+	.customstyle input{
+		width:75px;           
+	}
+	/* 进度条样式 start*/
+	.progressBar{
+	width: 270px;
+	height: 8px;
+	border: 1px solid #98afb7;
+	border-radius: 5px;
+	margin-top: 10px;
+	position: absolute;
+	top: 50%;
+	left: 40%;
+	z-index: 99999;
+	}
+	#bar{
+		width:0px;
+		height:8px;
+		border-radius:5px;
+		background:#5ec4ea;
+		margin-top: 11px;
+		position: absolute;
+		top: 50%;
+		left: 40%;
+		z-index: 99999;
+	}
+	.shadeelement{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 99999;
+	display: none;
+	}
+	/* 进度条样式 end*/
+	/* 侧栏待访人员列表样式 */
+		.visitorlist{
+			width: 168px;
+			min-height: 500px;
+			position: absolute;
+			top: 36px;
+			right: 0;
+			z-index: 9999;
+			background: #fff;
+			margin: 20px 10px;
+			border:1px solid #999;
+		}
+		.bodytitle{
+				text-align: center;
+				/* margin-bottom:20px; */
+				border-top:1px solid #999;
+				border-bottom:1px solid #999;
+				padding:3px 0;
+		}
+	#visitor{
+	max-height: 500px;
+	overflow: hidden;
+	overflow-y: visible;
+	}

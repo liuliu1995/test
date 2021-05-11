@@ -1,0 +1,14 @@
+/*鐢诲杈瑰舰鍥炬爣*/
+/*.BMapLib_Drawing .BMapLib_circleEx{*/
+/*    background-image:url(http://uat-onlinemap.nbcb.com.cn:30284/api.map.baidu.com/library/DrawingManager/1.4/src/bg_drawing_tool.png);*/
+/*}*/
+/*.BMapLib_Drawing .BMapLib_circleEx_hover{*/
+/*    background-image:url(http://uat-onlinemap.nbcb.com.cn:30284/api.map.baidu.com/library/DrawingManager/1.4/src/bg_drawing_tool.png);*/
+/*}*/
+/*画多边形图标*/
+.BMapLib_Drawing .BMapLib_circleEx{
+    background-image:url(circleEx1.png);
+}
+.BMapLib_Drawing .BMapLib_circleEx_hover{
+    background-image:url(circleEx.png);
+}

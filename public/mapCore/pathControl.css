@@ -1,0 +1,356 @@
+.searchContainer{
+    position: absolute;
+    width: 100%;
+    height:50px;
+}
+#selectBox{
+    outline: none;
+    border: none;
+    background:#1ab394;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+#selectBoxs{
+    outline: none;
+    border: none;
+    background:#1ab394;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+#go_way{
+    outline: none;
+    border: none;
+    background:#1ab394;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+#go_ways{
+    outline: none;
+    border: none;
+    background:#1ab394;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+#selectBoxs option{
+    background: #cccccc;
+    color: white;
+}
+#selectBox option{
+    background: #cccccc;
+    color: white;
+}
+.searchContainer .searchContainer_div .selectInpt{
+    margin-left: 15px;
+    height: 27px;
+    line-height: 27px;
+    padding-left: 5px;
+    outline: none;
+    font-size: 13px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-radius: 5px;
+    border: none;
+    background: rgba(0, 0, 0, 0.32);
+    color: white;
+}
+.NavOrigins{
+    position: absolute;
+    width: 250px;
+    height: 700px;
+    background: white;
+    right: 0;
+    top: 10%;
+    overflow: hidden;
+    z-index: 9;
+}
+.public_sty{
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+.public_stys{
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+.public_sty .public_sty_radio{
+    cursor: pointer;
+    vertical-align: middle;
+}
+.public_stys .public_sty_radio{
+    cursor: pointer;
+    vertical-align: middle;
+}
+.public_sty .public_sty_span{
+    display: inline-block;
+    width: 10%;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+      vertical-align: middle;
+    cursor: pointer;
+}
+.public_stys .public_sty_span{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 50%;
+    font-size: 15px;
+    background: rgb(169, 180, 234);
+    color: white;
+    font-weight: bold;
+}
+.public_sty .public_sty_input{
+    display: inline-block;
+    width:86%;
+    height: 20px;
+    line-height: 20px;	
+}
+.public_stys .public_sty_input{
+    display: inline-block;
+    width:70%;
+    height: 20px;
+    line-height: 20px;	
+}
+.public_sty .public_sty_iCon{
+    display:inline-block;
+    width: 10%;
+    height: 19px;
+    border: 1px solid #ccc;
+    line-height: 20px;
+    text-align: center;
+      vertical-align: middle;
+    cursor: pointer;
+    float:right;
+}
+.public_stys .public_sty_iCon{
+    display:inline-block;
+    width: 10%;
+    height: 19px;
+    border: 1px solid #ccc;
+    line-height: 20px;
+    text-align: center;
+      vertical-align: middle;
+    cursor: pointer;
+    float:right;
+}
+.addressTitle{
+    width: 80%;
+    height: 40px;
+    line-height: 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding-left: 2px;
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+.terminusS{
+    text-align: center;
+}
+.goNow{
+    text-align: center;
+    width: 55px;
+    height: 25px;
+    outline: none;
+    border: none;
+    background: #81B31A;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+    margin-left:20px;
+    border-radius: 5px;
+}
+.c{
+    display: inline-block;
+    width: 65%;
+    height: 20px;
+    line-height: 20px;
+    border: 1px solid #B2B2B2;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.sort{
+    padding: 0 10px;
+    height:55px;
+    line-height: 30px;
+    border-bottom: 1px solid #ccc;
+}
+.sorts{
+    padding: 0 10px;
+    height:30px;
+    line-height: 30px;
+    border-bottom: 1px solid #ccc;
+}
+.userStart{
+    margin-left: 7px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.userStarts{
+    margin-left: 7px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.sort .sortIcon{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background:rgb(20, 139, 58);
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    margin-top: 2px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    color: white;
+}
+.sort .sortIcon_b{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background:rgb(245, 123, 36);
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    margin-top: 2px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    color: white;
+}
+.sort .sortIcon_c{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background:rgb(255, 57, 57);
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    margin-top: 2px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    color: white;
+}
+.sort .sortContent{
+    height: 24px;
+    width: 85%;
+    line-height: 24px;
+    display: inline-block;
+    padding-left: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+    vertical-align: middle;
+    float: right;
+    color: #897F7F;
+}
+.Start_go{
+    width: 80px;
+    height: 27px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    background: #1ab394;
+    color: white;
+    border-radius: 5px;
+    margin-left: 2%;
+    outline: none;
+}
+.results{
+    width: 260px;
+    height: 100px;
+    background: white;
+    position: absolute;
+    right: 0;
+      top: 60%;
+    border: 1px solid #ccc;
+    z-index: 8;
+    opacity: 0;
+}
+.resTitle{
+    text-align: center;
+    height: 20px;
+    border-bottom: 1px solid #ccc;
+    padding: 2px 0;
+    font-size: 14px;
+    letter-spacing: 3px;
+    color: blue;
+    background: #f0f0f0;
+}
+.rescontent{
+    padding: 2px 5px;
+    border-bottom:1px solid #ccc;
+}
+.showInstrument{
+    position: absolute;
+    top: 12.5px;
+    width: 80px;
+    left: 12.5px;
+    height: 30px;
+    background: rgb(16, 195, 127);
+    text-align: center;
+    line-height: 30px;
+    border-radius: 5px;
+    color:white;
+    font-weight:bold;
+    cursor: pointer;
+}
+.zgObj{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background: red;
+    z-index: 99999;
+    background: rgba(0, 0, 0, 0.41);
+    display: none;
+}
+.jdt{
+    margin: 20% auto;
+    width: 270px;
+    height: 8px;
+    background: rgba(16, 203, 153, 0);
+    border:  1px solid #98afb7;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+}
+.colorJdt{
+    position: absolute;
+    width:30%;
+    height:8px;
+    display: inline-block;
+    background:#5ec4ea;
+    border-radius:5px;
+}
+
+
+.nav-toggle {
+	cursor:pointer;
+	text-align:center;
+	width:15px;
+	vertical-align:middle;
+    height: 50px;
+    background: white;
+    position: absolute;
+    right:260px;
+    top: 50%;
+    border: 1px solid #ccc;
+    z-index: 999;
+}
+
+
