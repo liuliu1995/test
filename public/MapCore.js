@@ -1,6 +1,6 @@
-document.write('<script type="text/javascript" src="//api.map.baidu.com/getscript?v=2.0&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
-document.write('<script type="text/javascript" src="//api.map.baidu.com/library/DistanceTool/1.2/src/DistanceTool_min.js?&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
-document.write('<script type="text/javascript" src="//api.map.baidu.com/library/TextIconOverlay/1.2/src/TextIconOverlay_min.js?ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/getscript?v=2.0&ak=UVqEAz7c89lvki1PZKMsZQVPN8c24RuP"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/DistanceTool/1.2/src/DistanceTool_min.js?&ak=UVqEAz7c89lvki1PZKMsZQVPN8c24RuP"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/TextIconOverlay/1.2/src/TextIconOverlay_min.js?ak=UVqEAz7c89lvki1PZKMsZQVPN8c24RuP"></script>');
 document.write('<script type="text/javascript" src="//api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>');
 document.write('<script type="text/javascript" src="//api.map.baidu.com/library/AreaRestriction/1.2/src/AreaRestriction_min.js"></script>');
 document.write('<script type="text/javascript" src="//api.map.baidu.com/library/LuShu/1.2/src/LuShu_min.js"></script>');
@@ -13,10 +13,6 @@ document.write('<script type="text/javascript" src="//api.map.baidu.com/library/
 document.write('<link rel="stylesheet" href="//api.map.baidu.com/library/DrawingManager/1.4/src/DrawingManager_min.css"/>');
 document.write('<link rel="stylesheet" href="//api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css"/>');
 document.write('<link rel="stylesheet" href="//api.map.baidu.com/library/TrafficControl/1.4/src/TrafficControl_min.css"/>');
-
-//百度内访问
-document.write('<script type="text/javascript" src="//api.map.baidu.com/?qt=verify&v=2.1&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm&callback=BMap._rd._cbk70060&seckey=undefined"></script>');
-document.write('<script type="text/javascript" src="//api0.map.bdimg.com/getmodules?v=2.0&t=20140707&mod=map_r3ao04,scommon_urfqpa,mapclick_kuda1r,opmb_q5rpu3,vectordrawlib_yn0vnf,style_vvp0qr,tile_jl3f30,canvablepath_yt25r0,common_w154ak,symbol_xob1zz,marker_srsoal&seckey=undefined"></script>');
 
 /**
  * 地图平台基础类库(百度)
