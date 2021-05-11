@@ -1,18 +1,18 @@
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/getscript?v=2.0&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/DistanceTool/1.2/src/DistanceTool_min.js?&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/TextIconOverlay/1.2/src/TextIconOverlay_min.js?ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/AreaRestriction/1.2/src/AreaRestriction_min.js"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/LuShu/1.2/src/LuShu_min.js"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.js"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/TrafficControl/1.4/src/TrafficControl_min.js"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/GeoUtils/1.2/src/GeoUtils_min.js"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>');
-document.write('<script type="text/javascript" src="https://api.map.baidu.com/library/CurveLine/1.5/src/CurveLine.min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/getscript?v=2.0&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/DistanceTool/1.2/src/DistanceTool_min.js?&ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/TextIconOverlay/1.2/src/TextIconOverlay_min.js?ak=ITHn7gGNIHKT2WQHzrnVgtYnQ7wh5Ltm"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/AreaRestriction/1.2/src/AreaRestriction_min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/LuShu/1.2/src/LuShu_min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/TrafficControl/1.4/src/TrafficControl_min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/GeoUtils/1.2/src/GeoUtils_min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>');
+document.write('<script type="text/javascript" src="//api.map.baidu.com/library/CurveLine/1.5/src/CurveLine.min.js"></script>');
 // document.write('<script type="text/javascript" src="./turf.min.js"></script>');
-document.write('<link rel="stylesheet" href="https://api.map.baidu.com/library/DrawingManager/1.4/src/DrawingManager_min.css"/>');
-document.write('<link rel="stylesheet" href="https://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css"/>');
-document.write('<link rel="stylesheet" href="https://api.map.baidu.com/library/TrafficControl/1.4/src/TrafficControl_min.css"/>');
+document.write('<link rel="stylesheet" href="//api.map.baidu.com/library/DrawingManager/1.4/src/DrawingManager_min.css"/>');
+document.write('<link rel="stylesheet" href="//api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css"/>');
+document.write('<link rel="stylesheet" href="//api.map.baidu.com/library/TrafficControl/1.4/src/TrafficControl_min.css"/>');
 
 /**
  * 地图平台基础类库(百度)
